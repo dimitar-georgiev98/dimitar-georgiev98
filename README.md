@@ -1,8 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=dimitar-georgiev98&style=flat-square&color=blue" alt=""/>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimitar-georgiev98&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimitar-georgiev98&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dimitar-georgiev98/dimitar-georgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

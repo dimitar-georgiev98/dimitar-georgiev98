@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=dimitar-georgiev98&style=flat-square&color=blue" alt=""/>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimitar-georgiev98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--

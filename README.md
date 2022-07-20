@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=dimitar-georgiev98&style=flat-square&color=blue" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=dimitar-georgiev98&style=flat-square&color=blue" alt=""/>-->
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&show_icons=true&theme=github_dark)

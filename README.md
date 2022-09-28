@@ -1,10 +1,10 @@
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&show_icons=true&theme=windows-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=windows-dark)](https://git.io/streak-stats)
 
 ### Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&layout=compact&theme=windows-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dimitar-georgiev98/dimitar-georgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

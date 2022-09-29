@@ -1,6 +1,7 @@
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&show_icons=true&theme=github_dark)
 
+### :fire: Current Streak :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=windows-dark)](https://git.io/streak-stats)
 
 ### Languages:

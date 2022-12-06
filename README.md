@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
+</p>
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&show_icons=true&theme=github_dark)
@@ -6,6 +9,14 @@
 
 ### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/dimitar-georgiev98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitar-georgiev98&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&theme=github_dark&layout=compact" />
+</a>
+-->
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimitar-georgiev98&theme=github_dark) 
@@ -20,6 +31,10 @@
 -->
 
 ![Snake animation](https://github.com/dimitar-georgiev98/dimitar-georgiev98/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **dimitar-georgiev98/dimitar-georgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

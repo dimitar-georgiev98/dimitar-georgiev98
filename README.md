@@ -17,9 +17,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimitar-georgiev98&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimitar-georgiev98&theme=github_dark&utcOffset=8) 
-
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 -->
+
+![Snake animation](https://github.com/dimitar-georgiev98/dimitar-georgiev98/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **dimitar-georgiev98/dimitar-georgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

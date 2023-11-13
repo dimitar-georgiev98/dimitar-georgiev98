@@ -29,6 +29,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimitar-georgiev98&theme=github_dark&utcOffset=8) 
 -->
+### Views Counter:
+![Visitor Count](https://profile-counter.glitch.me/dimitar-georgiev98/count.svg)
 
 ![Snake animation](https://github.com/dimitar-georgiev98/dimitar-georgiev98/blob/output/github-contribution-grid-snake.svg)
 

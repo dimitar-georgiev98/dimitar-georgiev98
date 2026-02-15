@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p>
@@ -9,6 +10,7 @@
 
 ### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-georgiev98&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 <h2> 📈 &nbsp;My GitHub History!</h2>
@@ -29,6 +31,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dimitar-georgiev98&theme=github_dark&utcOffset=8) 
 -->
+
+<!--
 ### Views Counter:
 ![Visitor Count](https://profile-counter.glitch.me/dimitar-georgiev98/count.svg)
 
@@ -37,6 +41,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+-->
 
 <!--
 **dimitar-georgiev98/dimitar-georgiev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
